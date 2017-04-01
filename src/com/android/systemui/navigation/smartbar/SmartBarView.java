@@ -33,7 +33,7 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
 import android.graphics.PorterDuff.Mode;
-import android.media.AudioMangaer;
+import android.media.AudioManager;
 import android.net.Uri;
 import android.os.UserHandle;
 import android.provider.Settings;
